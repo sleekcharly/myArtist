@@ -1,3 +1,5 @@
+A simple react project demonstrating the basics of react js (Component, lifecycle, routing, e.t.c)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
