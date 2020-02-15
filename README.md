@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A simple react project demonstrating the basics of react js (Component, lifecycle, routing, e.t.c)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# myArtist
+A simple react project demonstrating the basics of react js (Component, lifecycle, routing, e.t.c)
+>>>>>>> 29309123f88223a00153cb508b2e19a9454c135f
